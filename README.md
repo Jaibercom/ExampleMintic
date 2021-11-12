@@ -1,1 +1,1 @@
-# ExampleMintic
+# Example Mintic
